@@ -7,9 +7,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"main.dart.js": "c34d756ab3f3341b32d8d1be1ea92f79",
+"main.dart.js": "8eec3ae31daa13e4e5ed3ab8e18e554f",
 "manifest.json": "d40c47d1c161f94dbcb13094d37f1f55",
-"assets/AssetManifest.json": "801125fca546f506babac9af4ec061ba",
+"assets/AssetManifest.json": "6495c57c82d1bb8c6a962acfb9287717",
+"assets/assets/filmov.png": "e7524e97d9d6e4981cb37095ba260090",
+"assets/assets/cv.png": "f6536b572f9ec4cbefa4e9a70383aef5",
+"assets/assets/ai.png": "562cf62094893aa366f61fa721df0714",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
@@ -18,8 +21,8 @@ const RESOURCES = {
 "assets/NOTICES": "16bf45a5e1715530b901137e51966666",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "6cf3097423b35d811b4fa4b69af49542",
-"/": "6cf3097423b35d811b4fa4b69af49542",
+"index.html": "85e8fa53f10f1b8fa1e04a88d106bdb0",
+"/": "85e8fa53f10f1b8fa1e04a88d106bdb0",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
 
