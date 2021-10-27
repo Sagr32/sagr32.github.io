@@ -18,11 +18,20 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/NOTICES": "16bf45a5e1715530b901137e51966666",
+"assets/NOTICES": "35d98bd9614d08a2f7e49b97af8d8546",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "f59c330d382a918722370bfa607fee5a",
-"/": "f59c330d382a918722370bfa607fee5a",
+"index.html": "0ea4395ea072bc952bad29b1a8c4e58f",
+"/": "0ea4395ea072bc952bad29b1a8c4e58f",
+"splash/style.css": "48843229a3bd2d00ea1a9df18defad65",
+"splash/img/dark-3x.png": "e4a0d87bb78eef5638529486d6838b2a",
+"splash/img/dark-4x.png": "38cdfa9124923428fef471c93b118e04",
+"splash/img/dark-1x.png": "65031ab912a641bff478d8c25e298fab",
+"splash/img/light-1x.png": "65031ab912a641bff478d8c25e298fab",
+"splash/img/light-3x.png": "e4a0d87bb78eef5638529486d6838b2a",
+"splash/img/light-2x.png": "d04a9065f820d2c6dfaa27dee632e064",
+"splash/img/light-4x.png": "38cdfa9124923428fef471c93b118e04",
+"splash/img/dark-2x.png": "d04a9065f820d2c6dfaa27dee632e064",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
 
